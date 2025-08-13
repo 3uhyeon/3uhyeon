@@ -8,7 +8,7 @@
 - **Microsoft Cloud AI Engineer Education** (May 7, 2025 ~ Aug 12, 2025)  
 
 ### 🏆 Awards
-- **Grand Prize, 2024 Tourism Data Contest (President of Korea Tourism Organization Award)**  
+- **Grand Prize, 2024 Korea Tourism Organization × Kakao Tourism Data Contest (President of Korea Tourism Organization Award)**  
   (May 31, 2024 ~ Oct 02, 2024; Awarded Nov 19, 2024)  
 - **2nd Place, SW+X Conference** (Jan 08, 2024)  
 
