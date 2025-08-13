@@ -13,7 +13,7 @@
 - **2nd Place, SW+X Conference** (Jan 08, 2024)  
 
 ### 💼 Career
-- **IT Intern, Korea Credit Bureau (KCB) – Credit Rating Company** (Jan 13, 2025 ~ Feb 14, 2025)  
+- **IT Intern, Korea Credit Bureau (KCB), a leading credit rating company in Korea** (Jan 13, 2025 ~ Feb 14, 2025)  
   [Developed and operated an LLM-based RAG chatbot and server API.]
 
 ## 💻 Tech Stack
