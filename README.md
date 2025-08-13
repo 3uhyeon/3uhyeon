@@ -1,7 +1,7 @@
 ## 📜 Experience
 
 ### 🎯 Clubs
-- **Embedded SoftWare Club KOBOT** (Dec 01, 2022 ~ Dec 01, 2023)  
+- **Embedded Software Club KOBOT** (Dec 01, 2022 ~ Dec 01, 2023)  
 
 ### 🌐 Extracurricular Activities
 - **President, College of Software Convergence Student Council** (Dec 01, 2022 ~ Dec 01, 2023)  
