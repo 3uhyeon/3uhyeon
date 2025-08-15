@@ -1,6 +1,7 @@
 <div class="header">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f5f5f5&fontColor=000000&text=ASH's%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="ASH's GitHub">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,100:cccccc&fontColor=000000&text=ASH's%20GitHub&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="ASH's GitHub">
 </div>
+
 
 
 ## 📜 Experience
