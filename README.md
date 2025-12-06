@@ -19,7 +19,7 @@
 - **2nd Place, SW+X Conference** (Jan 08, 2024)  
 
 ### 💼 Career
-- **Research Analyst, The Boston Consulting Group (BCG), a leading global management consulting firm** (Aug 29, 2025 ~ Oct 31, 2025)
+- **Research Analyst, The Boston Consulting Group (BCG), a leading global management consulting firm** (Aug 29, 2025 ~ Nov 25, 2025)
 - **IT Intern, Korea Credit Bureau (KCB), a leading credit rating company in Korea** (Jan 13, 2025 ~ Feb 14, 2025)  
 
 ## 💻 Tech Stack
