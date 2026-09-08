@@ -19,6 +19,8 @@
 - **2nd Place, SW+X Conference** (Jan 08, 2024)  
 
 ### 💼 Career
+- **AI Tech Strategy, KakaoBank, everyone's first AI Bank** (Sep 14, 2026 ~)
+- **Global Training Partner, Microsoft, a global technology leader that develops software, hardware, cloud computing, and digital services.** (Jan, 2026 ~ Apr, 2026)
 - **Research Analyst, The Boston Consulting Group (BCG), a leading global management consulting firm** (Aug 29, 2025 ~ Nov 25, 2025)
 - **IT Intern, Korea Credit Bureau (KCB), a leading credit rating company in Korea** (Jan 13, 2025 ~ Feb 14, 2025)  
 
